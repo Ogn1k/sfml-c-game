@@ -1,5 +1,5 @@
 #include <SFML/Graphics.hpp>
-#include "parser/level.h"
+#include "parser/mapPar.h"
 #include "view.h"
 #include <iostream>
 #include <sstream>
